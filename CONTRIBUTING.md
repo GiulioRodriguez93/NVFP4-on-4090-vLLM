@@ -11,3 +11,4 @@ Notes and usage details for NVFP4-on-4090-vLLM.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
